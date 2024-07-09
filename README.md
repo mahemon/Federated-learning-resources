@@ -16,4 +16,10 @@
 
 ### Awesome-Federated-Learning
 > https://github.com/innovation-cat/Awesome-Federated-Machine-Learning <br/> 
-> https://github.com/chaoyanghe/Awesome-Federated-Learning?tab=readme-ov-file 
+> https://github.com/chaoyanghe/Awesome-Federated-Learning?tab=readme-ov-file
+
+### NVIDIA FLARE
+> NVIDIA FLARE™ (NVIDIA Federated Learning Application Runtime Environment) is a domain-agnostic, open-source, and extensible SDK for Federated Learning. It allows researchers and data scientists to adapt existing ML/DL workflow to a federated paradigm and enables platform developers to build a secure, privacy-preserving offering for a distributed multi-party collaboration. <br/>
+> https://developer.nvidia.com/flare <br/>
+> https://github.com/NVIDIA/NVFlare <br/>
+> https://www.apheris.com/resources/blog/top-7-open-source-frameworks-for-federated-learning
