@@ -29,3 +29,11 @@
 
 ### NeurIPS-2023
 > https://federated-learning.org/fl@fm-neurips-2023/
+>
+
+
+### LoRA Blog Post
+> https://medium.com/@lmpo/lora-a-groundbreaking-fine-tuning-method-for-llms-d812fa07bb58
+> https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
+> https://magazine.sebastianraschka.com/p/ahead-of-ai-9-llm-tuning-and-dataset
+> https://github.com/lishenghui/awesome-fm-fl
