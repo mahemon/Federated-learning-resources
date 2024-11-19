@@ -39,3 +39,6 @@
 > https://magazine.sebastianraschka.com/p/ahead-of-ai-9-llm-tuning-and-dataset
 
 > https://github.com/lishenghui/awesome-fm-fl
+
+### etc
+> - https://www.aimodels.fyi/ 
