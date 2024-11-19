@@ -41,4 +41,5 @@
 > https://github.com/lishenghui/awesome-fm-fl
 
 ### etc
-> - https://www.aimodels.fyi/ 
+> - https://www.aimodels.fyi/
+> - https://trendingpapers.com/ 
